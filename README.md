@@ -5,7 +5,8 @@
 
 ## GET A Full Project Source Code
 
-- [Watch on Youtube](https://www.youtube.com/watch?v=0i92pBJBpiw&t=1457s)
+- [Project Link](https://www.patreon.com/posts/e-commerce-ui-49272877)
+- ![App UI](https://user-images.githubusercontent.com/16510597/113295090-f0e9f380-9321-11eb-8736-9ee5c291e471.png)
 
 ![App UI](https://user-images.githubusercontent.com/16510597/113294576-5b4e6400-9321-11eb-8940-68e1223b4b0f.jpg)
 
