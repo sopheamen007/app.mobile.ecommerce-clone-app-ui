@@ -1,7 +1,7 @@
 # E-commerce Clone App UI
 
 - [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on Youtube](https://www.youtube.com/watch?v=0i92pBJBpiw&t=1457s)
+- [Watch on Youtube](https://www.youtube.com/watch?v=ZT4KJKzxUj0)
 
 ![App UI](https://user-images.githubusercontent.com/16510597/113294576-5b4e6400-9321-11eb-8940-68e1223b4b0f.jpg)
 
