@@ -1,4 +1,4 @@
-# shopping_ui
+# E-commerce Clone App UI
 
 A new Flutter project.
 
